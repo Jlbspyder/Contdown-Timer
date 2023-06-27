@@ -14,7 +14,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://jlb-countdown-timer.netlify.app/](https://jlb-countdown-timer.netlify.app/)
 
 
 ### Built with
