@@ -501,6 +501,7 @@ h5 {
     background-position: 100% 100%;
   }
   .main-container {
+    margin-top: 80px;
     display: flex;
     max-width: 600px;
     justify-content: center;
