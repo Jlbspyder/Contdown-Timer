@@ -23,7 +23,6 @@ const Timer = ({ timestamp }) => {
     setTimeLeft(getRemainingTime(countdown));
 
     const flipObjects = document.getElementsByTagName("h1");
-    console.log();
 
     handleFlip(flipObjects[3]);
     if (timeLeft.seconds == 59) handleFlip(flipObjects[2]);
