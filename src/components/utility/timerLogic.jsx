@@ -3,7 +3,6 @@ import dayjs from "dayjs";
 export const getRemainingTime = (timestampMs) => {
   const dayJsTimestamp = dayjs(timestampMs);
   const dayJsNow = dayjs();
-  console.log();
   if (dayJsTimestamp.isBefore(dayJsNow)) {
     return {
       seconds: "00",
